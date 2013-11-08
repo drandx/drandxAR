@@ -11,3 +11,8 @@
 /Library/ScriptAssemblies
 /obj
 /Temp
+
+#Files greater than 100mb
+/Assets/Models/BMW_Game001/MOTO/Moto.FBX
+/Assets/Models/BMW_Game001/MotoFInal/Animacion_COMPLETA.FBX
+/Assets/Models/PG_Location001/04.FBX
