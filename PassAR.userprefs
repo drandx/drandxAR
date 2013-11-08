@@ -1,0 +1,58 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Scripts/GameSettings.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BMW_Game001/MenuController.cs" Line="77" Column="11" />
+      <File FileName="Assets/Scripts/BMW_Game001/menu.js" Line="48" Column="19" />
+      <File FileName="Assets/Scripts/AnimationsController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FL_Game001/GUIFLGame001.cs" Line="1" Column="1" />
+      <File FileName="Assets/CharacterController_Gripati/Scripts/AnimationControllerExt.js" Line="93" Column="3" />
+      <File FileName="assets/Scripts/GameSettings.cs" Line="14" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="iGUI" expanded="True" />
+              <Node name="Qualcomm Augmented Reality" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="BMW_Game001" expanded="True">
+                  <Node name="MenuController.cs" selected="True" />
+                </Node>
+                <Node name="FL_Game001" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CharacterController_Gripati" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="BMW_Game001" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Character Controllers" expanded="True">
+                  <Node name="Sources" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
